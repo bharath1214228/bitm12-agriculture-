@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infoqik.com	TRUE	/	FALSE	1999999999	ezoadgid_393330	-1
+infoqik.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	c97e4349-de21-4ce3-746c-baeeb56e49dc
+www.infoqik.com	TRUE	/	FALSE	1999999999	SameSite	None
+infoqik.com	TRUE	/	FALSE	1999999999	ezoab_393330	mod1
+infoqik.com	TRUE	/	FALSE	1999999999	lp_393330	https://www.infoqik.com/companies/karnataka/01-agriculture/1
+infoqik.com	TRUE	/	FALSE	1999999999	ezovuuidtime_393330	1667578963
+infoqik.com	TRUE	/	FALSE	1999999999	ezovuuid_393330	e5a480bd-1e2d-452d-5e70-d2ccd1c300db
+infoqik.com	TRUE	/	FALSE	1999999999	ezopvc_393330	1
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	63653c64-4ef62-63c61-dbeb2
+
